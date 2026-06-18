@@ -1,0 +1,17 @@
+topology_id,pair_id,source,destination,route_id,local_route_id,route_number,path_string,hop_count,swap_count,total_distance_m,total_distance_km,total_fibre_loss_db,maximum_link_loss_db,minimum_link_loss_db,mean_link_loss_db,maximum_attenuation_db_per_km,mean_attenuation_db_per_km,upper_edge_count,lower_edge_count,central_edge_count
+train_mesh_8node_multipair_01,pair_01,R0,R7,pair_01_route_01,route_01,1,R0 -> R1 -> R3 -> R7,3,2,38000.0,38.0,11.879999999999999,4.199999999999999,3.8400000000000003,3.9599999999999995,0.32,0.31333333333333335,3,0,0
+train_mesh_8node_multipair_01,pair_01,R0,R7,pair_01_route_02,route_02,2,R0 -> R1 -> R4 -> R3 -> R7,4,3,51000.0,51.0,13.24,4.199999999999999,2.2,3.3099999999999996,0.32,0.26,2,0,2
+train_mesh_8node_multipair_01,pair_01,R0,R7,pair_01_route_03,route_03,3,R0 -> R2 -> R5 -> R6 -> R7,4,3,54000.0,54.0,8.52,2.56,1.65,2.13,0.17,0.1575,0,4,0
+train_mesh_8node_multipair_01,pair_01,R0,R7,pair_01_route_04,route_04,4,R0 -> R2 -> R4 -> R3 -> R7,4,3,54000.0,54.0,11.48,4.199999999999999,2.2,2.87,0.3,0.21500000000000002,1,1,2
+train_mesh_8node_multipair_01,pair_02,R0,R6,pair_02_route_01,route_01,1,R0 -> R2 -> R5 -> R6,3,2,41000.0,41.0,6.31,2.56,1.65,2.1033333333333335,0.16,0.15333333333333335,0,3,0
+train_mesh_8node_multipair_01,pair_02,R0,R6,pair_02_route_02,route_02,2,R0 -> R1 -> R4 -> R6,3,2,44000.0,44.0,10.07,3.8400000000000003,3.0,3.356666666666667,0.32,0.23666666666666672,1,0,2
+train_mesh_8node_multipair_01,pair_02,R0,R6,pair_02_route_03,route_03,3,R0 -> R2 -> R4 -> R6,3,2,47000.0,47.0,8.31,3.23,2.52,2.77,0.19,0.1766666666666667,0,1,2
+train_mesh_8node_multipair_01,pair_02,R0,R6,pair_02_route_04,route_04,4,R0 -> R1 -> R4 -> R5 -> R6,4,3,48000.0,48.0,10.49,3.8400000000000003,1.65,2.6225,0.32,0.2175,1,1,2
+train_mesh_8node_multipair_01,pair_03,R1,R7,pair_03_route_01,route_01,1,R1 -> R3 -> R7,2,1,26000.0,26.0,8.04,4.199999999999999,3.8400000000000003,4.02,0.32,0.31,2,0,0
+train_mesh_8node_multipair_01,pair_03,R1,R7,pair_03_route_02,route_02,2,R1 -> R4 -> R3 -> R7,3,2,39000.0,39.0,9.399999999999999,4.199999999999999,2.2,3.133333333333333,0.3,0.24,1,0,2
+train_mesh_8node_multipair_01,pair_03,R1,R7,pair_03_route_03,route_03,3,R1 -> R4 -> R6 -> R7,3,2,45000.0,45.0,8.44,3.23,2.21,2.813333333333334,0.2,0.18666666666666668,0,1,2
+train_mesh_8node_multipair_01,pair_03,R1,R7,pair_03_route_04,route_04,4,R1 -> R4 -> R5 -> R6 -> R7,4,3,49000.0,49.0,8.86,3.0,1.65,2.215,0.2,0.18000000000000002,0,2,2
+train_mesh_8node_multipair_01,pair_04,R2,R7,pair_04_route_01,route_01,1,R2 -> R5 -> R6 -> R7,3,2,38000.0,38.0,5.959999999999999,2.21,1.65,1.9866666666666664,0.17,0.15666666666666665,0,3,0
+train_mesh_8node_multipair_01,pair_04,R2,R7,pair_04_route_02,route_02,2,R2 -> R4 -> R3 -> R7,3,2,38000.0,38.0,8.92,4.199999999999999,2.2,2.973333333333333,0.3,0.23333333333333334,1,0,2
+train_mesh_8node_multipair_01,pair_04,R2,R7,pair_04_route_03,route_03,3,R2 -> R4 -> R6 -> R7,3,2,44000.0,44.0,7.96,3.23,2.21,2.6533333333333333,0.19,0.18000000000000002,0,1,2
+train_mesh_8node_multipair_01,pair_04,R2,R7,pair_04_route_04,route_04,4,R2 -> R5 -> R4 -> R3 -> R7,4,3,48000.0,48.0,10.5,4.199999999999999,2.0,2.625,0.3,0.21749999999999997,1,1,2
