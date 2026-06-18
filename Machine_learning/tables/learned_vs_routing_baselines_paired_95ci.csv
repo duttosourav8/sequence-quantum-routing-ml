@@ -1,0 +1,13 @@
+Reference method,Comparator,Metric,Estimate,95% CI low,95% CI high,Bootstrap replicates
+Learned model,Random route,Regret reduction,0.060833333333333336,0.030822916666666658,0.09458333333333331,2000
+Learned model,Random route,Feasible-selection gain,0.09791666666666667,0.04791666666666667,0.15416666666666667,2000
+Learned model,Random route,Top-1 gain,0.06666666666666667,0.004166666666666667,0.13963541666666637,2000
+Learned model,Minimum hop,Regret reduction,-0.0016666666666666663,-0.011666666666666665,0.008333333333333333,2000
+Learned model,Minimum hop,Feasible-selection gain,0.0,0.0,0.0,2000
+Learned model,Minimum hop,Top-1 gain,-0.016666666666666666,-0.058333333333333334,0.016666666666666666,2000
+Learned model,Minimum fibre loss,Regret reduction,0.0033333333333333344,-0.0033333333333333327,0.013333333333333334,2000
+Learned model,Minimum fibre loss,Feasible-selection gain,-0.008333333333333333,-0.025,0.0,2000
+Learned model,Minimum fibre loss,Top-1 gain,0.0,-0.025,0.025,2000
+Learned model,Maximum bottleneck success,Regret reduction,0.008333333333333335,-0.03166666666666666,0.04833333333333334,2000
+Learned model,Maximum bottleneck success,Feasible-selection gain,0.025,-0.03333333333333333,0.08333333333333333,2000
+Learned model,Maximum bottleneck success,Top-1 gain,-0.06666666666666667,-0.18333333333333332,0.041666666666666664,2000
