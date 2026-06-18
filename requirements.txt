@@ -1,0 +1,21 @@
+# Tested with Python 3.12
+# Combined environment for the SeQUeNCe simulation and classical-ML notebooks.
+
+numpy==2.0.2
+pandas==2.2.2
+scipy==1.14.1
+matplotlib==3.9.2
+networkx==3.3
+scikit-learn==1.6.1
+joblib==1.5.3
+tqdm==4.66.5
+
+# Quantum-network simulation
+sequence==0.8.5
+qutip==5.0.4
+qutip-qip==0.3.3
+pyarrow==17.0.0
+
+# Explainability
+shap==0.52.0
+lime==0.2.0.1
